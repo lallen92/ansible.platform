@@ -104,6 +104,7 @@ EXAMPLES = """
     name: Nexus
     state: exists
   register: ct_check
+...
 """
 
 RETURN = """
@@ -140,4 +141,5 @@ controller_credential_type:
     injectors:
       description: Injector configurations.
       type: dict
+...
 """
