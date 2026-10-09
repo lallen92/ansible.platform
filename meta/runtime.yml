@@ -26,4 +26,3 @@ action_groups:
     - user
   controller:
     - controller_credential_type
-...
